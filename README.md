@@ -1,1 +1,1 @@
-# dnsapp
+http://play.ottv.site/
